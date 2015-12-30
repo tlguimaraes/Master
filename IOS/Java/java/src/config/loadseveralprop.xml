@@ -1,0 +1,17 @@
+<Scallingoutproperties>
+<property>
+ <propertyname>JSON</propertyname>
+ <propertytype>config.json</propertytype>
+ <propertysuffix>.json</propertysuffix>
+</property>
+<property>
+ <propertyname>AWS</propertyname>
+ <propertytype>aws.properties</propertytype>
+ <propertysuffix>.properties</propertysuffix>
+</property>
+<property>
+ <propertyname>JDBC</propertyname>
+ <propertytype>jdbc.properties</propertytype>
+ <propertysuffix>.properties</propertysuffix>
+</property>
+</Scallingoutproperties>
